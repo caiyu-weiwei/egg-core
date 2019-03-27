@@ -1,0 +1,24 @@
+{
+  "name": "egg-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiyu-weiwei/egg-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiyu-weiwei/egg-core/issues"
+  },
+  "homepage": "https://github.com/caiyu-weiwei/egg-core#readme",
+  "dependencies": {
+    "globby": "^9.1.0",
+    "koa": "^2.7.0"
+  }
+}
